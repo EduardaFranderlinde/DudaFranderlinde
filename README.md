@@ -2,7 +2,7 @@
 
 - <p> Iniciei meus estudos dentro da área de Tecnologia há um ano e espero que com o curso DEVinHouse eu possa desenvolver melhor minhas habilidades. Já tive contato com liguagens como: Java, SQL, HTML e CSS.</p>
 
-<div style="display: flex" align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/DudaFranderlinde">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudafranderlinde&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafranderlinde&layout=compact&langs_count=7&theme=material-palenight"/>

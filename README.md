@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Eduarda👋
 
-- <p> Iniciei meus estudos dentro da área de Tecnologia há um ano e espero que com o curso DEVinHouse eu possa desenvolver melhor minhas habilidades. Já tive contato com liguagens como: Java, SQL, HTML e CSS.</p>
+- <p> Iniciei meus estudos dentro da área de Tecnologia há um ano e espero que com o curso DEVinHouse eu possa desenvolver melhor minhas habilidades. Já tive contato com  com: Java, SQL, HTML e CSS.</p>
 
 
 
